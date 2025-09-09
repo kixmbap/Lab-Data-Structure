@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1728455856 source:c:\users\computer\desktop\lab c 67\lab15-test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getdata.h"
+
+1728455629 source:c:\users\computer\desktop\lab c 67\lab15-test1\calgrade.c
+
+1728455824 source:c:\users\computer\desktop\lab c 67\lab15-test1\getdata.c
+	<stdio.h>
+
+1728455681 c:\users\computer\desktop\lab c 67\lab15-test1\getdata.h
+
+1728455629 source:k:\lab mom\lab15-test1-20241020t123434z-001\lab15-test1\calgrade.c
+
+1728455824 source:k:\lab mom\lab15-test1-20241020t123434z-001\lab15-test1\getdata.c
+	<stdio.h>
+
+1728455856 source:k:\lab mom\lab15-test1-20241020t123434z-001\lab15-test1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getdata.h"
+
+1728455681 k:\lab mom\lab15-test1-20241020t123434z-001\lab15-test1\getdata.h
+
